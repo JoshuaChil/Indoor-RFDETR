@@ -8,5 +8,7 @@ The provided scripts were used to:
 - Convert annotations into **COCO format**
 - Train and evaluate an **RFDETR-Nano** object detection model
 
+**NOTE**: Currently doesn't have features to balance classes, which could result in poorer training results. Updates **ideally* coming soon!
+
 Thanks for stopping by!
 
